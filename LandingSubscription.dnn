@@ -5,9 +5,9 @@
       <description>Christoc.com LandingSubscription module</description>
       <iconFile>Images/icon_extensions.gif</iconFile>
       <owner>
-        <name>Christoc.com</name>
-        <organization>Christoc.com</organization>
-        <url>http://www.christoc.com</url>
+        <name>3Gmotion</name>
+        <organization>3Gmotion</organization>
+        <url>http://www.3Gmotion.com</url>
         <email>modules@christoc.com</email>
       </owner>
       <license src="License.txt"></license>
